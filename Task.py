@@ -1,3 +1,4 @@
+# 03-02-2025 Monday 
 T = int(input())  # Number of test cases
 
 for t in range(T):
